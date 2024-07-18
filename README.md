@@ -4,5 +4,5 @@ The Bollywood Movies Analysis Power BI Dashboard offers comprehensive insights a
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/mahidubey/Bollywood-analytics/blob/main/Screenshot_4-6-2024_151152_.jpeg?raw=true))
+![App Screenshot]([https://github.com/mahidubey/Bollywood-analytics/blob/main/Screenshot_4-6-2024_151152_.jpeg?raw=true]
 
